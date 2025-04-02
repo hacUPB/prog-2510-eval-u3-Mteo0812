@@ -3,11 +3,11 @@
 
 A continuacion se mostraran las imagnes de un analisis escrito de como se logro comprender y solucionar el "RETO 1" para pasar al crear el codigo de phyton:
 
-![imagen](../Imagenes/analisis_1.jpge)
+![imagen](../Imagenes/analisis_1.jpeg)
 
-![imagen](../Imagenes/analisis_2.jpge)
+![imagen](../Imagenes/analisis_2.jpeg)
 
-![imagen](../Imagenes/analisis_3.jpge)
+![imagen](../Imagenes/analisis_3.jpeg)
 
 ## Pseudocodigo
     Inicio 
