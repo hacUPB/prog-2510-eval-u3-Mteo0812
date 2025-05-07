@@ -75,7 +75,8 @@ def asignar_asiento():
         letra_asiento = "A"
     else:
         letra_asiento = "B"
-    
+    #En esta parte se utlizo la ayuda de la IA para generar un asiento aleatorio entre 1 y 29, y una letra entre A, B o C y poder codificar bien el sistema
+    #ya que cuando el programa llegaba a este punto se bloqueaba y no dejaba continuar, por lo que se le pidio ayuda a la IA para poder solucionarlo
     numero_asiento = random.randint(1, 29)
     asiento = f"{numero_asiento}{letra_asiento}"
     print(f"Su asiento asignado es: {asiento}")
